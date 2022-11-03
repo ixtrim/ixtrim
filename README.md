@@ -22,6 +22,10 @@ My career has been challenging and rewarding. I have learned a great deal and ha
 
 ----------------
 
+<h2>Currently i am learning Typescript and Node.js.</h2>
+
+----------------
+
 > #### Frontend Development
 >
 > HTML, CSS (CSS Preprocessors), JavaScript, jQuery, Typescript, Vue.js, REACT, Bootstrap, Foundation, Bulma, Tailwind CSS, GreenSock, SwiperJS, and many more...
